@@ -1,0 +1,10 @@
+Hex je dosková hra vymyslená v roku 1942 Peitom Heinom a Johnom Nashom.
+Hracia doska je šesťuholníková mriežka veľkosti 11x11 s kosoštvorcovým tvarom.
+Dvaja hráči dostávajú pridelené dvojice protiľahlých strán hracej dosky.
+Hracia doska je na začiatku prázdna.
+Hráči sa striedajú v pokladaní hracích kameňov na voľné políčka.
+Pre položenie kameňa hráč chytí nádobu s medom jeho farby, potiahne ju nad vybraté políčko a pustí.
+Cieľom každého hráča je zostaviť súvislú spojnicu medzi stranami označenými jeho farbou.
+Keďže hráč pokladajúci prvý kameň je vo výhode, poradie hráčov je generované náhodne.
+V každom ťahu hráč pokladá jeden kameň na voľný šesťuholník. Už položené kamene nemožno presúvať.
+Limit pre počet kameňov na hracej doske neexistuje, hráči pokladajú kamene dokým jeden nevyhrá.

@@ -1,0 +1,9 @@
+Hex is a board game invented in 1942 by Peit Hein and John Nash.
+The hex board is an 11x11 hexagonal tiling in a rhombus shape.
+Two players are assigned opposite edges of the board.
+The board is empty at the start of the game, and the players have to put the pieces in, one by one.
+To put a piece in, players drag jars with honey and release it over desired hexagon.
+The goal of each player is to establish an unbroken chain of their pieces connecting the two sides of the board marked with their colour.
+As the player placing the first stone has an advantage, the player is chosen randomly.
+Moves entail placing a piece on an unoccupied hexagon. Already placed pieces cannot be moved.
+There is no limit to the number of pieces, so players take turns placing new pieces until one of them reaches victory.
